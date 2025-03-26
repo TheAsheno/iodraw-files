@@ -258,8 +258,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pIE5ZzTdwzMPF9NYhIRB-156" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="139.6" width="120" height="60" as="geometry" />
+        <mxCell id="pIE5ZzTdwzMPF9NYhIRB-157" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="159.6" width="580" height="140.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

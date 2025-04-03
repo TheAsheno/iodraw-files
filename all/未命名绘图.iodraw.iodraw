@@ -122,11 +122,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ujmYk45ZHn1H4XY5zs3G-245" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;上传&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="90" y="290" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ujmYk45ZHn1H4XY5zs3G-246" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="ujmYk45ZHn1H4XY5zs3G-245">
+        <mxCell id="ujmYk45ZHn1H4XY5zs3G-246" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="ujmYk45ZHn1H4XY5zs3G-245" source="ujmYk45ZHn1H4XY5zs3G-201">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="205" as="sourcePoint" />
+            <mxPoint x="230" y="240" as="sourcePoint" />
             <mxPoint x="615" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>

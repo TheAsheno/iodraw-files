@@ -268,7 +268,7 @@
         <mxCell id="ujmYk45ZHn1H4XY5zs3G-291" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;助教ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="400" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ujmYk45ZHn1H4XY5zs3G-312" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ujmYk45ZHn1H4XY5zs3G-300" target="ujmYk45ZHn1H4XY5zs3G-204">
+        <mxCell id="ujmYk45ZHn1H4XY5zs3G-312" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ujmYk45ZHn1H4XY5zs3G-300" target="ujmYk45ZHn1H4XY5zs3G-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ujmYk45ZHn1H4XY5zs3G-300" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;问题标题&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -306,6 +306,9 @@
         </mxCell>
         <mxCell id="ujmYk45ZHn1H4XY5zs3G-308" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;问题图片&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="45" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ujmYk45ZHn1H4XY5zs3G-315" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.007;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ujmYk45ZHn1H4XY5zs3G-301" target="ujmYk45ZHn1H4XY5zs3G-204">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

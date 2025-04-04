@@ -250,7 +250,7 @@
         <mxCell id="YKRVo7qu6rAU3XhN4uIE-70" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;通知推送&lt;/span&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;horizontal=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1401" y="760" width="40" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YKRVo7qu6rAU3XhN4uIE-71" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;标记、删除通知&lt;/span&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;horizontal=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="YKRVo7qu6rAU3XhN4uIE-71" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查看、标记、删除通知&lt;/span&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;horizontal=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1481" y="760" width="40" height="200" as="geometry" />
         </mxCell>
       </root>

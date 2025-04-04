@@ -102,7 +102,7 @@
         <mxCell id="YKRVo7qu6rAU3XhN4uIE-44" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;课程管理&lt;/font&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;horizontal=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="-300" y="750" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="YKRVo7qu6rAU3XhN4uIE-45" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;创建、编辑、删除课程&lt;/font&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;horizontal=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="YKRVo7qu6rAU3XhN4uIE-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;创建、编辑、删除课程&lt;/font&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;horizontal=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="-370" y="750" width="40" height="200" as="geometry" />
         </mxCell>
       </root>

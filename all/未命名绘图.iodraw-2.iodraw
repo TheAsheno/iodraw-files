@@ -157,10 +157,13 @@
           <mxGeometry x="1120" y="760" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YKRVo7qu6rAU3XhN4uIE-67" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户注册&lt;/span&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;horizontal=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="760" width="40" height="200" as="geometry" />
+          <mxGeometry x="1230" y="760" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YKRVo7qu6rAU3XhN4uIE-68" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户登录&lt;/span&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;horizontal=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1280" y="760" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YKRVo7qu6rAU3XhN4uIE-69" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改昵称、头像&lt;/span&gt;" style="rounded=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;horizontal=1;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="760" width="40" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

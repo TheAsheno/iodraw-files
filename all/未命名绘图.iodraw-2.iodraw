@@ -149,13 +149,8 @@
         <mxCell id="YKRVo7qu6rAU3XhN4uIE-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;教师功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YKRVo7qu6rAU3XhN4uIE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YKRVo7qu6rAU3XhN4uIE-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590.1904761904761" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YKRVo7qu6rAU3XhN4uIE-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;学生功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YKRVo7qu6rAU3XhN4uIE-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="YKRVo7qu6rAU3XhN4uIE-4">
           <mxGeometry relative="1" as="geometry">

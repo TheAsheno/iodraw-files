@@ -144,15 +144,15 @@
           <mxGeometry x="690" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YKRVo7qu6rAU3XhN4uIE-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;教师功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YKRVo7qu6rAU3XhN4uIE-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;学生功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YKRVo7qu6rAU3XhN4uIE-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;智能答疑功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YKRVo7qu6rAU3XhN4uIE-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;智能答疑系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YKRVo7qu6rAU3XhN4uIE-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;其他功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

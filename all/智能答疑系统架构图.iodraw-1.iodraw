@@ -73,18 +73,6 @@
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="220" y="710" width="450" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cNu8bmdaE5HvlhpQmjOa-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;知识库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="732.5" width="110" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="cNu8bmdaE5HvlhpQmjOa-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;知识图谱&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="731.25" width="110" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="cNu8bmdaE5HvlhpQmjOa-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;大模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="732.5" width="110" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="cNu8bmdaE5HvlhpQmjOa-33" value="&lt;div style=&quot;padding-top: 0px; margin-right: 25px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;SQL SERVER&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="530" y="587.5" width="130" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;异常处理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="710" y="240" width="40" height="420" as="geometry" />
         </mxCell>
@@ -105,6 +93,9 @@
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;大模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="872.5" width="110" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cNu8bmdaE5HvlhpQmjOa-42" value="&lt;div style=&quot;padding-top: 0px; margin-right: 25px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;SQL SERVER&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="727.5" width="130" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

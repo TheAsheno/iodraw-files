@@ -26,34 +26,34 @@
           <mxGeometry x="80" y="360" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="360" width="460" height="150" as="geometry" />
+          <mxGeometry x="240" y="360" width="460" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;问题管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="380" width="110" height="30" as="geometry" />
+          <mxGeometry x="275" y="385" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;课程管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="420" width="110" height="30" as="geometry" />
+          <mxGeometry x="275" y="425" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;通知管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="460" width="110" height="30" as="geometry" />
+          <mxGeometry x="275" y="465" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发布问题&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="380" width="110" height="30" as="geometry" />
+          <mxGeometry x="415" y="385" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;文件上传&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="420" width="110" height="30" as="geometry" />
+          <mxGeometry x="415" y="425" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;智能答疑&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="460" width="110" height="30" as="geometry" />
+          <mxGeometry x="415" y="465" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;收藏问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="380" width="110" height="30" as="geometry" />
+          <mxGeometry x="555" y="385" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;评论互动&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="420" width="110" height="30" as="geometry" />
+          <mxGeometry x="555" y="425" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-22" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;......&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="460" width="110" height="30" as="geometry" />
+          <mxGeometry x="555" y="465" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;数据访问层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="80" y="570" width="120" height="90" as="geometry" />

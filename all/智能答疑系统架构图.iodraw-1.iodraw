@@ -56,7 +56,7 @@
           <mxGeometry x="555" y="465" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;数据访问层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="80" y="570" width="120" height="90" as="geometry" />
+          <mxGeometry x="80" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="230" y="570" width="460" height="90" as="geometry" />
@@ -120,8 +120,8 @@
         </mxCell>
         <mxCell id="cNu8bmdaE5HvlhpQmjOa-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="550" as="sourcePoint" />
-            <mxPoint x="690" y="550" as="targetPoint" />
+            <mxPoint x="80" y="540" as="sourcePoint" />
+            <mxPoint x="690" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

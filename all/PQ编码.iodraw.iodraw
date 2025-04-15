@@ -688,7 +688,7 @@
             <mxPoint x="310" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9X6cqAy_nNXafcqIDN3-211" value="k-means" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="c9X6cqAy_nNXafcqIDN3-211" value="k-means&lt;div&gt;clustering&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="480" y="202.5" width="70" height="75" as="geometry" />
         </mxCell>
         <mxCell id="c9X6cqAy_nNXafcqIDN3-212" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
